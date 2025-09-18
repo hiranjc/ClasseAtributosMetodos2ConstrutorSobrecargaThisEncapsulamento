@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ET73\\Downloads\\projetos-c#\\ClasseAtributosMetodos2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A592C43C-6CED-4FA0-B4A6-F373EE3EFAF8}|ClasseAtributosMetodos2.csproj|c:\\users\\et73\\downloads\\projetos-c#\\classeatributosmetodos2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A592C43C-6CED-4FA0-B4A6-F373EE3EFAF8}|ClasseAtributosMetodos2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A592C43C-6CED-4FA0-B4A6-F373EE3EFAF8}|ClasseAtributosMetodos2.csproj|c:\\users\\et73\\downloads\\projetos-c#\\classeatributosmetodos2\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A592C43C-6CED-4FA0-B4A6-F373EE3EFAF8}|ClasseAtributosMetodos2.csproj|solutionrelative:produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\ET73\\Downloads\\projetos-c#\\ClasseAtributosMetodos2\\Produto.cs",
+              "RelativeDocumentMoniker": "Produto.cs",
+              "ToolTip": "C:\\Users\\ET73\\Downloads\\projetos-c#\\ClasseAtributosMetodos2\\Produto.cs",
+              "RelativeToolTip": "Produto.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAIwFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T15:32:43.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ET73\\Downloads\\projetos-c#\\ClasseAtributosMetodos2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ET73\\Downloads\\projetos-c#\\ClasseAtributosMetodos2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA4wB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T13:28:07.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

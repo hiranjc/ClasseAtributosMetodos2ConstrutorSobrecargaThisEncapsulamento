@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos2\bin\Debug\net8.0\ClasseAtributosMetodos2ConstrutorSobrecargaThisEncapsulamento.exe
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos2\bin\Debug\net8.0\ClasseAtributosMetodos2ConstrutorSobrecargaThisEncapsulamento.deps.json
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos2\bin\Debug\net8.0\ClasseAtributosMetodos2ConstrutorSobrecargaThisEncapsulamento.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos2\bin\Debug\net8.0\ClasseAtributosMetodos2ConstrutorSobrecargaThisEncapsulamento.dll
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos2\bin\Debug\net8.0\ClasseAtributosMetodos2ConstrutorSobrecargaThisEncapsulamento.pdb
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos2\obj\Debug\net8.0\ClasseAtributosMetodos2ConstrutorSobrecargaThisEncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos2\obj\Debug\net8.0\ClasseAtributosMetodos2ConstrutorSobrecargaThisEncapsulamento.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos2\obj\Debug\net8.0\ClasseAtributosMetodos2ConstrutorSobrecargaThisEncapsulamento.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos2\obj\Debug\net8.0\ClasseAtributosMetodos2ConstrutorSobrecargaThisEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos2\obj\Debug\net8.0\ClasseAtributosMetodos2ConstrutorSobrecargaThisEncapsulamento.dll
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos2\obj\Debug\net8.0\refint\ClasseAtributosMetodos2ConstrutorSobrecargaThisEncapsulamento.dll
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos2\obj\Debug\net8.0\ClasseAtributosMetodos2ConstrutorSobrecargaThisEncapsulamento.pdb
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos2\obj\Debug\net8.0\ClasseAtributosMetodos2ConstrutorSobrecargaThisEncapsulamento.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos2\obj\Debug\net8.0\ref\ClasseAtributosMetodos2ConstrutorSobrecargaThisEncapsulamento.dll
